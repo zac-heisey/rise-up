@@ -1,0 +1,36 @@
+<!-- Wrapper -->
+<div id="wrapper">
+
+	<header id="header">
+		<div class="inner">
+
+			<!-- Logo -->
+			<a href="{{ site.url }}/" class="logo">
+				<span class="symbol">
+
+					{% if site.logo %}
+
+					<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} Logo" /></span>
+
+					{% else %}
+
+				 	<span class="title">{{ site.title }}</span>
+
+					{% endif %}
+
+			</a>
+			<!-- Nav -->
+			<nav>
+				<ul>
+					<li><a href="#menu">Menu</a></li>
+				</ul>
+			</nav>
+
+		</div>
+	</header>
+
+	{% include menu.html %}
+
+	<!-- Main -->
+	<div id="main">
+		<div class="inner">

@@ -1,0 +1,47 @@
+---
+title: Silver Strand Physical Therapy
+timezone: UTC
+collections:
+  hometiles:
+    title: Hometiles
+    output: true
+    permalink: "/:path/"
+  physical-therapy:
+    title: Physical Therapy
+    output: true
+  posts:
+    title: Posts
+    output: true
+  stafftiles:
+    title: Stafftiles
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    categories: blog
+    featured-image: ''
+    permalink: "/:categories/:title"
+    description: ''
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    description: ''
+url: https://www.silverstrandpt.com
+baseurl: 
+email: admin@silverstrandpt.com
+description: Silver Stand Physical Therapy provides physical therapy services to patients
+  throughout Imperial Beach and the South Bay. Schedule your appointment today!
+logo: uploads/logos/logo_text_waves.png
+markdown: kramdown
+permalink: pretty
+include:
+- _redirects
+home-link-in-menu: true

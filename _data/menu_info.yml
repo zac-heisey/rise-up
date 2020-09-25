@@ -1,0 +1,22 @@
+---
+navmenu:
+- title: Home
+  url: "/"
+- title: Our Staff
+  url: "/staff"
+- title: Our Services
+  url: "/services"
+- title: Insurance
+  url: "/insurance"
+- title: Service Areas
+  url: "/service-areas"
+- title: Blog
+  url: "/blog"
+- title: Contact
+  url: "/#contact"
+- title: Careers
+  url: "/careers"
+- title: Patient Survey
+  url: "/patient-survey"
+---
+

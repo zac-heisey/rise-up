@@ -1,0 +1,62 @@
+///
+/// Phantom by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Basic */
+
+	// MSIE: Required for IEMobile.
+		@-ms-viewport {
+			width: device-width;
+		}
+
+	// MSIE: Prevents scrollbar from overlapping content.
+		body {
+			-ms-overflow-style: scrollbar;
+		}
+
+	// Ensures page width is always >=320px.
+		@include breakpoint(xsmall) {
+			html, body {
+				min-width: 320px;
+			}
+		}
+
+	body {
+		background: url("/uploads/logos/map_only_transparent@2x.png") no-repeat fixed;
+		background-position: right;
+
+		// Prevents animation/transition "flicker" on page load.
+		// Automatically added/removed by js/main.js.
+			&.is-loading {
+				*, *:before, *:after {
+					@include vendor('animation', 'none !important');
+					@include vendor('transition', 'none !important');
+				}
+			}
+
+	}
+
+/* landing-page.html Layout Styles */
+
+.landing-page-content {
+	display: flex;
+	justify-content: space-between;
+}
+
+.lp-content-section {
+	max-width: 55%;
+}
+
+@include breakpoint(medium) {
+	// wrap contact form below landing page content
+	.landing-page-content {
+		flex-wrap: wrap;
+	}
+	// set both content and contact form to 100% width on mobile devices
+	.lp-content-section,
+	#landing-contact {
+		min-width: 100%;
+	}
+}

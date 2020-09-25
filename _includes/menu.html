@@ -1,0 +1,9 @@
+<nav id="menu">
+	<h2>Menu</h2>
+	<ul>
+
+		{% for navitem in site.data.menu_info.navmenu %}
+		<li><a href="{{ navitem.url | prepend: site.url }}">{{ navitem.title }}</a></li>
+		{% endfor %}
+	</ul>
+</nav>

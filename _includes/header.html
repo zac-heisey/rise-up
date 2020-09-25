@@ -7,17 +7,16 @@
 			<!-- Logo -->
 			<a href="{{ site.url }}/" class="logo">
 				<span class="symbol">
-
 					{% if site.logo %}
-
-					<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} Logo" /></span>
-
-					{% else %}
-
-				 	<span class="title">{{ site.title }}</span>
-
-					{% endif %}
-
+					<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} Logo" />
+				</span>
+				<div>
+					<span class="title-lg">RISE UP</span><br>
+					<span class="title-sm">Physical Therapy</span>
+				</div>
+				{% else %}
+			 	<span class="title">{{ site.title }}</span>
+				{% endif %}
 			</a>
 			<!-- Nav -->
 			<nav>

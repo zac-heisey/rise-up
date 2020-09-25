@@ -4,7 +4,7 @@ permalink: "/services"
 layout: page
 description: From injury prevention to rehabilitation, balance training to reconditioning,
   Silver Strand Physical Therapy provides comprehensive treatment services.
-featured-image: 
+featured-image:
 homepage-thumbnail: uploads/surfer-dude.jpg
 homepage-description: We offer a variety of physical therapy treatment options.
 ---
@@ -20,4 +20,4 @@ homepage-description: We offer a variety of physical therapy treatment options.
 - Pediatric Physical Therapy & Rehabilitation
 - Elite Sports Training & Sports Rehabilitation
 
-Feel free to [contact us]({{ page.permalink }}/#contact), or check out our [physical therapy service areas](/service-areas) today!
+Feel free to [contact us]({{ page.permalink }}/#contact), or check out our [physical therapy clinic locations](/locations) today!

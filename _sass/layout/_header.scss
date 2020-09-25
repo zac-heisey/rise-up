@@ -34,6 +34,18 @@
 					height: 100%;
 				}
 			}
+
+			.title-lg {
+				font-family: serif;
+				color: _palette(accent1);
+				font-size: 2.5rem;
+			}
+
+			.title-sm {
+				font-family: serif;
+				font-size: 1.25rem;
+			}
+
 		}
 
 		nav {

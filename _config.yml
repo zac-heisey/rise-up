@@ -1,6 +1,5 @@
 ---
-title: Silver Strand Physical Therapy
-timezone: UTC
+title: RISE UP Physical Therapy
 collections:
   hometiles:
     title: Hometiles
@@ -34,12 +33,10 @@ defaults:
   values:
     layout: page
     description: ''
-url: https://www.silverstrandpt.com
-baseurl: 
-email: admin@silverstrandpt.com
-description: Silver Stand Physical Therapy provides physical therapy services to patients
-  throughout Imperial Beach and the South Bay. Schedule your appointment today!
-logo: uploads/logos/logo_text_waves.png
+url: https://www.riseup-physicaltherapy.com/
+email: rachel@riseup-physicaltherapy.com
+description: RISE UP Physical Therapy provides physical therapy services to patients throughout Northern Virginia. Schedule your appointment today!
+logo: uploads/logos/rise-up-logo.svg
 markdown: kramdown
 permalink: pretty
 include:

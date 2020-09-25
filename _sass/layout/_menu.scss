@@ -21,7 +21,7 @@
 		max-width: 80%;
 		height: 100%;
 		-webkit-overflow-scrolling: touch;
-		background: _palette(fg);
+		background: _palette(accent1);
 		color: _palette(bg);
 		cursor: default;
 		visibility: hidden;
@@ -54,6 +54,10 @@
 						line-height: 1.5;
 						border: 0;
 						color: inherit;
+
+						&:hover, &:focus {
+							color: _palette(fg) !important;
+						}
 					}
 
 					&:first-child {

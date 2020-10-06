@@ -2,14 +2,13 @@
 title: Our Services
 permalink: "/services"
 layout: page
-description: From injury prevention to rehabilitation, balance training to reconditioning,
-  Silver Strand Physical Therapy provides comprehensive treatment services.
+description: From injury prevention to rehabilitation, balance training to reconditioning, RISE UP Physical Therapy provides comprehensive treatment services.
 featured-image:
-homepage-thumbnail: uploads/surfer-dude.jpg
+homepage-thumbnail: uploads/services.jpg
 homepage-description: We offer a variety of physical therapy treatment options.
 ---
 
-[Silver Strand Physical Therapy](/) specializes in a wide range of treatment options for our patients, including:
+[RISE UP Physical Therapy](/) specializes in a wide range of treatment options for our patients, including:
 
 - Injury Prevention & Exercise Programs
 - Acute Injury & Post-Op Care

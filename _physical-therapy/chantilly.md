@@ -17,7 +17,7 @@ layout: landing-page
 
 </div>
 
-<div style="margin-left:1rem;">
+<div style="margin-left: 2rem;">
 
   <h3>Our Chantilly Physical Therapy Services Include:</h3>
 

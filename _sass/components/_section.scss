@@ -7,6 +7,9 @@
 /* Section/Article */
 
 	section, article {
+
+		margin-bottom: 1rem !important;
+
 		&.special {
 			text-align: center;
 		}

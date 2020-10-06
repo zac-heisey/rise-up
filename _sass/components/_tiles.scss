@@ -123,17 +123,10 @@
 				}
 			}
 
-			&.style1,
-			&.style3 {
+			&.style1, &.style2,
+			&.style3, &.style4 {
 				> .image:before {
 					background-color: _palette(accent1);
-				}
-			}
-
-			&.style2,
-			&.style4 {
-				> .image:before {
-					background-color: _palette(accent2);
 				}
 			}
 
@@ -162,6 +155,7 @@
 
 		* + & {
 			margin-top: _size(element-margin);
+			margin-bottom: _size(element-margin);
 		}
 
 		body.is-loading & {

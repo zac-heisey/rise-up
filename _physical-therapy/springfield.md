@@ -18,7 +18,7 @@ layout: landing-page
 
 </div>
 
-<div style="margin-left:1rem;">
+<div style="margin-left: 2rem;">
 
   <h3>Our Springfield Physical Therapy Services Include:</h3>
   <ul>

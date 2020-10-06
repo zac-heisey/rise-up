@@ -24,8 +24,7 @@
 		}
 
 	body {
-		background: url("/uploads/logos/map_only_transparent@2x.png") no-repeat fixed;
-		background-position: right;
+		background-image: linear-gradient(to bottom right, rgba(255, 255, 255, 0), _palette(accent1));
 
 		// Prevents animation/transition "flicker" on page load.
 		// Automatically added/removed by js/main.js.

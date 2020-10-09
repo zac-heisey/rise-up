@@ -4,7 +4,9 @@ description: Welcome to the RISE UP Therapy blog. We have tons of great physical
 layout: page
 ---
 
-Welcome to the [RISE UP Physical Therapy](/) blog! Check out some of our recent posts below:
+Check back soon for tips and information about health, wellness, fitness, physical therapy, and more!
+
+<!-- Welcome to the [RISE UP Physical Therapy](/) blog! Check out some of our recent posts below:
 
 <ul class="post-list">
   {% for post in site.posts %}
@@ -15,6 +17,6 @@ Welcome to the [RISE UP Physical Therapy](/) blog! Check out some of our recent 
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
 
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

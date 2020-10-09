@@ -8,15 +8,15 @@ homepage-thumbnail: uploads/services.jpg
 homepage-description: We offer a variety of physical therapy treatment options.
 ---
 
-[RISE UP Physical Therapy](/) specializes in a wide range of treatment options for our patients, including:
+RISE UP Physical Therapy offers [1-on-1 physical therapy](/) services to patients throughout Northern Virginia, including:
 
-- Injury Prevention & Exercise Programs
-- Acute Injury & Post-Op Care
-- Reconditioning Exercises & Deconditioning Prevention
-- Balance Training & Exercises
-- Neurological Rehabilitation & Stroke/CVA Recovery
-- Biomechanical Assessment & Analysis
-- Pediatric Physical Therapy & Rehabilitation
-- Elite Sports Training & Sports Rehabilitation
+- Injury prevention
+- Acute injury and post-operative care
+- Reconditioning
+- Balance training
+- Vestibular and neurological rehab
+- Biomechanical assessment and body analysis
+- Pediatric rehab
+- Infant Pediatric care: Torticollis, plagiocephaly and more
 
 Feel free to [contact us]({{ page.permalink }}/#contact), or check out our [physical therapy clinic locations](/locations) today!

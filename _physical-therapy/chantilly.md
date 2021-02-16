@@ -9,7 +9,7 @@ layout: landing-page
 
   <h3>14103 Mariah Ct, Chantilly, VA 20151</h3>
 
-  <p>RISE UP Physical Therapy provides physical therapy treatment to patients in the Chantilly area. If you're looking for physical therapy in Chantilly, we'd love to help! From our office location in Imperial Beach, we are centrally located to offer physical therapy services to patients throughout Northern Virginia, including physical therapy in Chantilly.</p>
+  <p>RISE UP Physical Therapy provides physical therapy treatment to patients in the Chantilly area. If you're looking for physical therapy in Chantilly, we'd love to help! We are centrally located to offer physical therapy services to patients throughout Northern Virginia, including physical therapy in Chantilly.</p>
 
   <p>Our Chantilly office is located inside of the <a href="https://www.prstarfitness.com/" rel="noopener noreferrer" target="_blank">PR Star Fitness</a>. Due to popular demand from providers and patients alike, RISE UP has started a new location inside this beautiful 12,000 square foot gym. By working hand in hand with other health professionals we’re able to provide a complete course of care before, during, and after physical therapy. We are extremely excited to provide quality care to our patients in the Chantilly area.</p>
 

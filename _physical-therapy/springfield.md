@@ -9,7 +9,7 @@ layout: landing-page
 
   <h3>8704 Morrissette Dr, Springfield, VA 22152</h3>
 
-  <p>RISE UP Physical Therapy provides physical therapy treatment to patients in the Springfield area. If you're looking for physical therapy in Springfield, we'd love to help! From our office location in Imperial Beach, we are centrally located to offer physical therapy services to patients throughout Northern Virginia, including physical therapy in Springfield.</p>
+  <p>RISE UP Physical Therapy provides physical therapy treatment to patients in the Springfield area. If you're looking for physical therapy in Springfield, we'd love to help! We are centrally located to offer physical therapy services to patients throughout Northern Virginia, including physical therapy in Springfield.</p>
 
   <p>Our Springfield office is located inside of
 <a href="https://redlineathletics.com/springfield/" rel="noopener noreferrer" target="_blank">RedLine Athletics Springfield</a>. This new location allows RISE UP to grow and give back to more of the Northern Virginia community. The 11,000 square foot clinic offers all of the state of the functional equipment and space, while deliver top-notch physical therapy services to clients throughout the Springfield area.</p>

@@ -12,7 +12,7 @@ layout: landing-page
   <p>RISE UP Physical Therapy provides physical therapy treatment to patients in the Springfield area. If you're looking for physical therapy in Springfield, we'd love to help! We are centrally located to offer physical therapy services to patients throughout Northern Virginia, including physical therapy in Springfield.</p>
 
   <p>Our Springfield office is located inside of
-<a href="https://redlineathletics.com/springfield/" rel="noopener noreferrer" target="_blank">RedLine Athletics Springfield</a>. This new location allows RISE UP to grow and give back to more of the Northern Virginia community. The 11,000 square foot clinic offers all of the state of the functional equipment and space, while deliver top-notch physical therapy services to clients throughout the Springfield area.</p>
+<a href="https://www.allsporttrainingcenter.com/" rel="noopener noreferrer" target="_blank">AllSport Training Center</a>. This new location allows RISE UP to grow and give back to more of the Northern Virginia community. The 11,000 square foot clinic offers all of the state of the functional equipment and space, while deliver top-notch physical therapy services to clients throughout the Springfield area.</p>
 
   <p>We accept all major insurance plans, including Aetna, Blue Cross Blue Shield, CareFirst, Cigna, and more. To learn more about our physical therapy treatment options, or to schedule an appointment, please complete the quick form below.</p>
 

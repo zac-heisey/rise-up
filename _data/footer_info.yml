@@ -2,6 +2,14 @@
 phone: 571-655-6565
 fax: 703-636-9858
 email: rachel@riseup-physicaltherapy.com
-location-1: 14103 Mariah Ct, Chantilly, VA 20151
-location-2: 8704 Morrissette Dr, Springfield, VA 22152
+locations:
+  - title: Chantilly Physical Therapy
+    url: "/physical-therapy/chantilly"
+    address: 14103 Mariah Ct, Chantilly, VA 20151
+  - title: Springfield Physical Therapy
+    url: "/physical-therapy/springfield"
+    address: 8704 Morrissette Dr, Springfield, VA 22152
+  - title: Falls Church Physical Therapy
+    url: "/physical-therapy/falls-church"
+    address: 3431 Carlin Springs Rd, Falls Church, VA 22041
 ---

@@ -54,13 +54,12 @@
 			<ul class="icons">
 				<li><a href="tel:{{ site.data.footer_info.phone }}" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
 				<li><a href="mailto:{{ site.data.footer_info.email }}" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+				{% for location in site.data.footer_info.locations %}
 				<li>
-					<a href="/physical-therapy/chantilly">Chantilly Physical Therapy</a><br>
-					{{ site.data.footer_info.location-1 }}
+					<a href="{{ location.url }}">{{ location.title }}</a><br>
+					{{ location.address }}
 				</li>
-				<li>
-					<a href="/physical-therapy/springfield">Springfield Physical Therapy</a><br>
-					{{ site.data.footer_info.location-2 }}</li>
+				{% endfor %}
 				<li>Phone: {{ site.data.footer_info.phone }} | Fax: {{ site.data.footer_info.fax }}</li>
 			</ul>
 		</section>

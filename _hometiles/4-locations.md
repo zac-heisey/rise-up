@@ -5,7 +5,7 @@ layout: page
 description: RISE UP Physical Therapy serves patients in Chantilly, Springfield, and the rest of Northern Virginia.
 featured-image:
 homepage-thumbnail: uploads/locations.jpg
-homepage-description: Our offices in Chantilly and Springfield service patients throughout Northern Virginia.
+homepage-description: Our offices in Chantilly, Springfield, and Falls Church service patients throughout Northern Virginia.
 ---
 
 RISE UP Physical Therapy has clinic locations in Chantilly, Springfield, and Falls Church, allowing us to provide premier physical therapy treatment services to patients throughout Northern Virginia.
